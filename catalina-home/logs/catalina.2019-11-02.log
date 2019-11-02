@@ -1,0 +1,83 @@
+02-Nov-2019 11:33:41.495 严重 [main] org.apache.catalina.core.AprLifecycleListener.init An incompatible version [1.2.7] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+02-Nov-2019 11:33:41.521 严重 [main] org.apache.catalina.core.AprLifecycleListener.init An incompatible version [1.2.7] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+02-Nov-2019 11:33:41.523 严重 [main] org.apache.catalina.core.AprLifecycleListener.init An incompatible version [1.2.7] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+02-Nov-2019 11:33:41.527 严重 [main] org.apache.catalina.core.AprLifecycleListener.init An incompatible version [1.2.7] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+02-Nov-2019 11:33:41.557 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.æå¡å¨çæ¬:     Apache Tomcat/@VERSION@
+02-Nov-2019 11:33:41.557 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨æå»º:            @VERSION_BUILT@
+02-Nov-2019 11:33:41.557 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: @VERSION_NUMBER@
+02-Nov-2019 11:33:41.557 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+02-Nov-2019 11:33:41.557 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.çæ¬:               6.1
+02-Nov-2019 11:33:41.557 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æ¶æ:                  amd64
+02-Nov-2019 11:33:41.557 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java ç¯å¢åé:         D:\tooles\jdk1.8.0_151\jre
+02-Nov-2019 11:33:41.557 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM çæ¬:              1.8.0_151-b12
+02-Nov-2019 11:33:41.557 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.ä¾åºå:            Oracle Corporation
+02-Nov-2019 11:33:41.557 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\鲁班学院\第一期\tomcat源码分析\code\catalina-home
+02-Nov-2019 11:33:41.557 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\鲁班学院\第一期\tomcat源码分析\code\catalina-home
+02-Nov-2019 11:33:41.558 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:53384,suspend=y,server=n
+02-Nov-2019 11:33:41.558 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=catalina-home
+02-Nov-2019 11:33:41.558 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=catalina-home
+02-Nov-2019 11:33:41.558 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=catalina-home/endorsed
+02-Nov-2019 11:33:41.558 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=catalina-home/temp
+02-Nov-2019 11:33:41.558 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+02-Nov-2019 11:33:41.558 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=catalina-home/conf/logging.properties
+02-Nov-2019 11:33:41.558 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\Administrator\AppData\Local\Temp\captureAgentjars\debugger-agent.jar
+02-Nov-2019 11:33:41.558 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+02-Nov-2019 11:33:41.558 严重 [main] org.apache.catalina.core.AprLifecycleListener.init An incompatible version [1.2.7] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+02-Nov-2019 11:33:41.650 严重 [main] org.apache.catalina.core.AprLifecycleListener.init An incompatible version [1.2.7] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+02-Nov-2019 11:33:41.650 信息 [main] org.apache.coyote.AbstractProtocol.init åå§ååè®®å¤çå¨ ["http-nio-8080"]
+02-Nov-2019 11:33:41.705 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+02-Nov-2019 11:33:41.715 严重 [main] org.apache.catalina.core.AprLifecycleListener.init An incompatible version [1.2.7] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+02-Nov-2019 11:33:41.715 信息 [main] org.apache.coyote.AbstractProtocol.init åå§ååè®®å¤çå¨ ["ajp-nio-8009"]
+02-Nov-2019 11:33:41.717 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+02-Nov-2019 11:33:41.718 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 504 ms
+02-Nov-2019 11:33:41.753 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+02-Nov-2019 11:33:41.754 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+02-Nov-2019 11:33:41.805 信息 [main] org.apache.coyote.AbstractProtocol.start å¼å§åè®®å¤çå¥æ["http-nio-8080"]
+02-Nov-2019 11:33:41.822 信息 [main] org.apache.coyote.AbstractProtocol.start å¼å§åè®®å¤çå¥æ["ajp-nio-8009"]
+02-Nov-2019 11:33:41.834 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 115 ms
+02-Nov-2019 11:35:00.774 严重 [http-nio-8080-exec-1] org.apache.catalina.core.AprLifecycleListener.init An incompatible version [1.2.7] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+02-Nov-2019 11:37:25.760 信息 [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+02-Nov-2019 11:37:26.271 信息 [Thread-5] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+02-Nov-2019 11:37:26.584 信息 [Thread-5] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+02-Nov-2019 11:37:26.588 信息 [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+02-Nov-2019 11:37:26.590 信息 [Thread-5] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+02-Nov-2019 11:37:26.592 信息 [Thread-5] org.apache.coyote.AbstractProtocol.destroy æ­£å¨æ§æ¯åè®®å¤çå¨ ["http-nio-8080"]
+02-Nov-2019 11:37:26.593 信息 [Thread-5] org.apache.coyote.AbstractProtocol.destroy æ­£å¨æ§æ¯åè®®å¤çå¨ ["ajp-nio-8009"]
+02-Nov-2019 11:43:35.889 严重 [main] org.apache.catalina.core.AprLifecycleListener.init An incompatible version [1.2.7] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+02-Nov-2019 11:43:35.916 严重 [main] org.apache.catalina.core.AprLifecycleListener.init An incompatible version [1.2.7] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+02-Nov-2019 11:43:35.919 严重 [main] org.apache.catalina.core.AprLifecycleListener.init An incompatible version [1.2.7] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+02-Nov-2019 11:43:35.922 严重 [main] org.apache.catalina.core.AprLifecycleListener.init An incompatible version [1.2.7] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+02-Nov-2019 11:43:35.960 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.æå¡å¨çæ¬:     Apache Tomcat/@VERSION@
+02-Nov-2019 11:43:35.960 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æå¡å¨æå»º:            @VERSION_BUILT@
+02-Nov-2019 11:43:35.960 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: @VERSION_NUMBER@
+02-Nov-2019 11:43:35.960 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+02-Nov-2019 11:43:35.960 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.çæ¬:               6.1
+02-Nov-2019 11:43:35.960 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log æ¶æ:                  amd64
+02-Nov-2019 11:43:35.960 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java ç¯å¢åé:         D:\tooles\jdk1.8.0_151\jre
+02-Nov-2019 11:43:35.960 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM çæ¬:              1.8.0_151-b12
+02-Nov-2019 11:43:35.961 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.ä¾åºå:            Oracle Corporation
+02-Nov-2019 11:43:35.961 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\tomcat8-resource\code\catalina-home
+02-Nov-2019 11:43:35.961 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\tomcat8-resource\code\catalina-home
+02-Nov-2019 11:43:35.961 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:65465,suspend=y,server=n
+02-Nov-2019 11:43:35.961 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=catalina-home
+02-Nov-2019 11:43:35.961 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=catalina-home
+02-Nov-2019 11:43:35.961 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=catalina-home/endorsed
+02-Nov-2019 11:43:35.961 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=catalina-home/temp
+02-Nov-2019 11:43:35.961 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+02-Nov-2019 11:43:35.961 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=catalina-home/conf/logging.properties
+02-Nov-2019 11:43:35.962 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\Administrator\AppData\Local\Temp\captureAgentjars\debugger-agent.jar
+02-Nov-2019 11:43:35.962 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+02-Nov-2019 11:43:35.962 严重 [main] org.apache.catalina.core.AprLifecycleListener.init An incompatible version [1.2.7] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+02-Nov-2019 11:43:36.069 严重 [main] org.apache.catalina.core.AprLifecycleListener.init An incompatible version [1.2.7] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+02-Nov-2019 11:43:36.069 信息 [main] org.apache.coyote.AbstractProtocol.init åå§ååè®®å¤çå¨ ["http-nio-8080"]
+02-Nov-2019 11:43:36.181 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+02-Nov-2019 11:43:36.188 严重 [main] org.apache.catalina.core.AprLifecycleListener.init An incompatible version [1.2.7] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+02-Nov-2019 11:43:36.188 信息 [main] org.apache.coyote.AbstractProtocol.init åå§ååè®®å¤çå¨ ["ajp-nio-8009"]
+02-Nov-2019 11:43:36.190 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+02-Nov-2019 11:43:36.191 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 569 ms
+02-Nov-2019 11:43:36.218 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+02-Nov-2019 11:43:36.218 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/@VERSION@
+02-Nov-2019 11:43:36.253 信息 [main] org.apache.coyote.AbstractProtocol.start å¼å§åè®®å¤çå¥æ["http-nio-8080"]
+02-Nov-2019 11:43:36.267 信息 [main] org.apache.coyote.AbstractProtocol.start å¼å§åè®®å¤çå¥æ["ajp-nio-8009"]
+02-Nov-2019 11:43:36.270 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 79 ms
+02-Nov-2019 11:45:45.368 严重 [http-nio-8080-exec-2] org.apache.catalina.core.AprLifecycleListener.init An incompatible version [1.2.7] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
